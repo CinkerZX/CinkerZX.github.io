@@ -6,6 +6,8 @@
     <content><![CDATA[<blockquote>
 <p>Hello, this is a review for Remarkable 2, despite there have been lots of reviews about this product on YouTube, including horizontal compare with other E-readers, and vertical compare with Remarkable 1, as a researcher, I was still unsure if this product is a suitable tool for me. I did’t know if the screen would be too small to read papers, specially for myopia vision; or if the ink screen would be inconvenient to mark. That’s why I make this review, I will share with you my experience on using Remarkable 2 for reading papers, Ebooks, and taking notes. Hope this review can be helpful to you.</p>
 </blockquote>
+<a id="more"></a>
+
 <h2 id="Table-of-Contents"><a href="#Table-of-Contents" class="headerlink" title="Table of Contents"></a>Table of Contents</h2><ul>
 <li><a href="#Basic-information-about-Remarkable-2">Basic information about Remarkable 2</a></li>
 <li><a href="#Reading-papers-and-e-books">Reading papers and e-books</a><ul>
@@ -128,5 +130,68 @@
 <p>Conclusion: based on my 2 weeks using experience, I really enjoy working with it. It might be a bit pricey for a student, but if you love reading, if you really need a tool to help you being focus, Remarkable 2 is highly recommended. It provides you all necessary functions without any redundancy.</p>
 </blockquote>
 ]]></content>
+      <tags>
+        <tag>Product</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Java LiveTemplates</title>
+    <url>/2021/03/05/Java-LiveTemplates/</url>
+    <content><![CDATA[<blockquote>
+<p>This blog is a simple introudction of the <strong>live templates</strong> of IDEA, it can accelerate your coding speed. Let’s get started.</p>
+</blockquote>
+<a id="more"></a>
+
+<h3 id="Useful-templates"><a href="#Useful-templates" class="headerlink" title="Useful templates"></a>Useful templates</h3><pre><code>// type in &#39;psvm&#39;, or &#39;main&#39;, you can get:
+public static void main(String[] args) &#123;
+  // type in &#39;psg&#39;, you can get the following:
+  public String getFile_name() &#123;
+      return file_name;
+  &#125;
+
+  //type in &#39;fori&#39;, you can get:
+  for (int i = 0; i &lt; ; i++) &#123;
+    Object o = null;
+    //type in &#39;ifn&#39;(inn &lt;=&gt; if not null), you can get:
+        if (o == null) &#123;
+
+        &#125;
+  &#125;
+  //type in &#39;sout&#39;, youc can get:
+  System.out.println();
+
+  //type in &#39;souf&#39;, you can get:
+  System.out.printf(&quot;&quot;);
+&#125;</code></pre>
+<h3 id="Create-your-own-templates"><a href="#Create-your-own-templates" class="headerlink" title="Create your own templates"></a>Create your own templates</h3><ul>
+<li><p>ctrl+alt+s</p>
+</li>
+<li><p>Click Editor</p>
+</li>
+<li><p>Click Live templates</p>
+</li>
+<li><p>You can creat your own templates (group), for example:</p>
+<pre><code>@Test
+@DisplayName(&quot;$TEST_NAME$&quot;)
+void $METHOD_NAME$() &#123;
+    Assertions.fail(&quot;no passed.&quot;);
+    $End$
+&#125;</code></pre>
+</li>
+</ul>
+<h3 id="Share-your-individual-templates-with-others"><a href="#Share-your-individual-templates-with-others" class="headerlink" title="Share your individual templates with others"></a>Share your individual templates with others</h3><ul>
+<li>Press Shift twice</li>
+<li>Insert ‘export’</li>
+<li>Select ‘export settings’</li>
+</ul>
+<h3 id="Import-others-templates"><a href="#Import-others-templates" class="headerlink" title="Import others templates"></a>Import others templates</h3><ul>
+<li>Press Shift twice</li>
+<li>Insert ‘import’</li>
+<li>Select ‘import settings’</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Java</tag>
+      </tags>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="https://cinkerzx.github.io/atom.xml" rel="self"/>
   
   <link href="https://cinkerzx.github.io/"/>
-  <updated>2021-03-03T04:22:35.861Z</updated>
+  <updated>2021-03-05T21:36:19.740Z</updated>
   <id>https://cinkerzx.github.io/</id>
   
   <author>
@@ -17,24 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Java LiveTemplates</title>
+    <link href="https://cinkerzx.github.io/2021/03/05/Java-LiveTemplates/"/>
+    <id>https://cinkerzx.github.io/2021/03/05/Java-LiveTemplates/</id>
+    <published>2021-03-05T21:13:05.411Z</published>
+    <updated>2021-03-05T21:36:19.740Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;This blog is a simple introudction of the &lt;strong&gt;live templates&lt;/strong&gt; of IDEA, it can accelerate your coding speed. Let’s get started.&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="Java" scheme="https://cinkerzx.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Remarkable 2 Review</title>
     <link href="https://cinkerzx.github.io/2020/11/10/Remarkable2%20review/"/>
     <id>https://cinkerzx.github.io/2020/11/10/Remarkable2%20review/</id>
     <published>2020-11-10T13:59:15.725Z</published>
-    <updated>2021-03-03T04:22:35.861Z</updated>
+    <updated>2021-03-05T21:34:36.791Z</updated>
     
     
-      
-      
-        
-        
     <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;Hello, this is a review for Remarkable 2, despite there have been lots of reviews about this product on YouTube, including</summary>
-        
-      
+&lt;p&gt;Hello, this is a review for Remarkable 2, despite there have been lots of reviews about this product on YouTube, including horizontal compare with other E-readers, and vertical compare with Remarkable 1, as a researcher, I was still unsure if this product is a suitable tool for me. I did’t know if the screen would be too small to read papers, specially for myopia vision; or if the ink screen would be inconvenient to mark. That’s why I make this review, I will share with you my experience on using Remarkable 2 for reading papers, Ebooks, and taking notes. Hope this review can be helpful to you.&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
     
     
     
+    
+    <category term="Product" scheme="https://cinkerzx.github.io/tags/Product/"/>
     
   </entry>
   
